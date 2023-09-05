@@ -28,7 +28,7 @@ At Baga Beach
 3. casino
 
 ---
- ![please click the link](MyStats.md)
+ [please click the link](MyStats.md)
 
 ***
 
