@@ -27,8 +27,6 @@ At Baga Beach
 2. Roaming City
 3. casino
 
----
  [please click the link](MyStats.md)
-
 ***
 
