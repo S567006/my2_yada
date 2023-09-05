@@ -22,11 +22,13 @@ Goa is one of the famous vacation spot in Goa. Moreover I choose goa because of 
 At Baga Beach
 1. Food
     1. lab
-    2. crab
-    3. beavers(bear)
-2. Roming City
+    3. crab
+    2. beavers(bear)
+2. Roaming City
 3. casino
 
 ---
+ ![please click the link](MyStats.md)
 
+***
 
