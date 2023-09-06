@@ -35,10 +35,10 @@ The below table illustrate 4 kinds sports i would like most
 The firt coloumn represents name of the sport and the secound coloumn represents reason of my intrest more over the third coloumn represents time to spend the at sports.
 | Name of the sport | Reason of my intrest |
 | Time to spend at the sport |
-| :-: | :-: | :-: | 
-| Kabbadi | A kabaddi match typically runs | 40 minutes |
+| --- |  ---  | --- | 
+| Kabbadi | Typical to get score | 40 minutes |
 | Chess | Chess is a mind game | 120 minutes |
-| Cricket | Cricket match typically on runs | | 480 Minutes |
-| Batmanton | Batmantom is energitic Sport | 40 minutes |
+| Cricket | Typical to play | 480 Minutes |
+| Batmanton | Typical to play  | 40 minutes |
 
 
