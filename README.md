@@ -45,3 +45,24 @@ The firt coloumn represents name of the sport and the secound coloumn represents
 
 > Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work.*~Steve Jobs*
 
+***
+
+# jQuery Code Fencing
+> Simple Auto-Playing Slideshow - using Jquery
+
+<https://stackoverflow.com/questions/21222360/how-to-make-a-simple-auto-playing-slide-show-with-javascript>
+
+```
+$("#slideshow > div:gt(0)").hide();
+
+setInterval(function() { 
+  $('#slideshow > div:first')
+  .fadeOut(1000)
+  .next()
+  .fadeIn(1000)
+  .end()
+  .appendTo('#slideshow');
+}, 3000);
+```
+
+<https://css-tricks.com/snippets/jquery/simple-auto-playing-slideshow/>
