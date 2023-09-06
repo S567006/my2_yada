@@ -10,8 +10,8 @@ Goa is one of the famous vacation spot in Goa. Moreover I choose goa because of 
 
 1. Visting Malvin
     1. scuba diving
-    2. Parasasliding
-    3. water rides
+    3. Parasasliding
+    2. water rides
 2. In Goa visting beach
 3. Eating sea food
 
@@ -20,12 +20,12 @@ Goa is one of the famous vacation spot in Goa. Moreover I choose goa because of 
 # Unorder_List
 
 At Baga Beach
-1. Food
-    1. lab
-    3. crab
-    2. beavers(bear)
-2. Roaming City
-3. casino
+* Food
+    * lab
+    * crab
+    * beavers(bear)
+* Roaming City
+* casino
 
  [please click the link](MyStats.md)
 ***
