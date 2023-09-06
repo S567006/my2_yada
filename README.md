@@ -32,7 +32,7 @@ At Baga Beach
 
 # 4 KIND OF SPORTS INTERSTED IN 
 The below table illustrate 4 kinds sports i would like most
-The firt coloumn represents name of the sport and the secound coloumn represents reason of my intrest more over the third coloumn represents time to spend the at sports i.e
+The firt coloumn represents name of the sport and the secound coloumn represents reason of my intrest more over the third coloumn represents time to spend the at sports.
 | Name of the sport | Reason of my intrest |
 | Time to spend at the sport |
 | :-: | :-: | :-: | 
