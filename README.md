@@ -40,5 +40,8 @@ The firt coloumn represents name of the sport and the secound coloumn represents
 | Cricket | Typical to play | 480 Minutes |
 | Batmanton | Typical to play  | 40 minutes |
 
+# Steve Jobs Quotes
+> desire to create great products as opposed to what the customers thought they wanted.~Steve Jobs*
 
+> Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work.*~Steve Jobs*
 
